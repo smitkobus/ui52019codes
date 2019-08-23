@@ -19,6 +19,7 @@ https://www.ui5cn.com/courses/sapui5-professional-development-2019
 # Section 1 - SAPUI5 Basics, App Structuring, Bootstrap and Internal Library Implementation
 
 Introduction to SAPUI5 Professional Development Free Preview
+
 Getting Started with Simple SAPUI5 App in Full Stack Web IDE Free Preview
 Understading SAPUI5 App Structure - Namespace and Root View Free Preview
 Understanding SAPUI5 App Structure - App Rendering and AMD sap.ui.define pattern in Component.js Free Preview
